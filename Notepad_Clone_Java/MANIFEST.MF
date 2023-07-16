@@ -1,0 +1,4 @@
+Manifet-Version: 1.0
+Created-By: Fabricio
+Main-Class: Clone.Notepad
+
