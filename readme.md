@@ -1,6 +1,7 @@
-Dois exemplos simples de interfaces do usuario em duas linguagens diferentes(python e java)
+Notepad do windows com uma versão para linux rodando em duas plataformas(java e python)
 
 Para executar:
+
 Python:
 	pip install -r requirements.txt
 	python3 notepadmain.py
